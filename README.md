@@ -1,5 +1,5 @@
-人人看得懂的AI教程，从0开始入门AI教程，一步一步AI，人工智能学习笔记
 ![程序猿教程](http://www.mutou888.com/assets/images/yuanjiaocheng.jpg "程序猿教程")
+人人看得懂的AI教程，从0开始入门AI教程，一步一步AI，人工智能学习笔记
 
 一、基础知识
 1.1 人工智能概览
