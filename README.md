@@ -1,3 +1,5 @@
+![程序猿教程](http://www.mutou888.com/assets/images/yuanjiaocheng.jpg "程序猿教程")
+
 一、基础知识
 1.1 人工智能概览
 1.2 机器学习
